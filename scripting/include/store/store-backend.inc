@@ -44,7 +44,8 @@ enum Store_AcquireMethod
 	Store_Gift,
 	Store_Admin,
 	Store_Web,
-	Store_Unknown
+	Store_Unknown,
+	Store_Achievement
 }
 
 /**
